@@ -1,0 +1,28 @@
+#para1{
+    background-color: lightgray;
+    border: 2px solid black;
+    color: purple;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+#para2{
+    background-color: lightyellow;
+    border: 2px dashed green;
+    color: brown;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
+#para3{
+    background-color: lightblue;
+    border: 2px dotted blue;
+    color: darkblue;
+    font-size: 16px;
+    font-family: 'Georgia', serif;
+}
+#para4{
+    background-color: lightgreen;
+    border: 2px double darkgreen;
+    color: darkgreen;
+    font-size: 16px;
+    font-family: 'Verdana', sans-serif;
+}
